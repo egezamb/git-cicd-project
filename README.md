@@ -9,3 +9,7 @@ This project demonstrates Git version control and CI/CD pipeline implementation.
 - Setting up GitHub Actions for CI/CD
 
 Created on April 2, 2025
+
+## Getting Started
+
+To use this repository, clone it to your local machine and follow the examples in each section.
