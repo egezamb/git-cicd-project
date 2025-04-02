@@ -1,4 +1,4 @@
-# Git and CI/CD Project
+# Git and CI/CD Project - Advanced Implementation
 
 This project demonstrates Git version control and CI/CD pipeline implementation. It includes examples of:
 
