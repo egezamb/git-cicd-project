@@ -1,4 +1,4 @@
-# Git and CI/CD Project - Branch 1 Version
+# Git and CI/CD Project - Advanced Implementation (Branch 1 + Branch 2)
 
 This project demonstrates Git version control and CI/CD pipeline implementation. It includes examples of:
 
