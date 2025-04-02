@@ -13,3 +13,10 @@ Created on April 2, 2025
 ## Getting Started
 
 To use this repository, clone it to your local machine and follow the examples in each section.
+
+## Features
+
+- **Version Control**: Learn the basics of Git version control
+- **Branch Management**: Create, merge, and delete branches
+- **Conflict Resolution**: Handle and resolve merge conflicts
+- **Automation**: Implement Git hooks and CI/CD pipelines
